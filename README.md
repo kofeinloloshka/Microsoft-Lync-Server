@@ -215,4 +215,4 @@ Microsoft Lync Server is available as a full free version, offering all features
 Unlock the full potential of your business communications with Microsoft Lync Server. **Download now and experience the difference!**
 
 ---
-**Last updated:** 2026-10-17 22:07:03 UTC
+**Last updated:** 2026-10-18 00:47:05 UTC
